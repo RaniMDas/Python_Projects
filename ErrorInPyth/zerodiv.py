@@ -1,0 +1,1 @@
+"when you divide any number by zero. It gives zero division error"

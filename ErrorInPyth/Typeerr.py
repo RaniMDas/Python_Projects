@@ -1,0 +1,1 @@
+"When you add string and integer. Tries to opearet on two different data types"
